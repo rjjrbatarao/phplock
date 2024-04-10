@@ -22,5 +22,8 @@ It comes with Encoder and Decoder in different .so plugin.
 
 ## limitations
 * only works in raspberry pi currently I just dont have resources yet on other cpu architectures other than raspberry pi and my computer and i havent have time yet to make the php plugin compiler work on my personal computer, as an alternative you can use Phpbolt instead.
+
+## sources
+https://habr.com/en/articles/727774/
  
 
